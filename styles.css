@@ -1,1 +1,60 @@
 
+
+html{
+	margin-right: 130px;
+	margin-left: 130px;
+	margin-top: 15px;
+}
+
+a {
+	text-decoration: none;
+	color:#0000cc;
+}
+
+div {
+	/*position: relative; */
+	display: inline-block;
+	text-align: center;
+	
+}
+
+#welcomep {
+	text-align: right;
+}
+
+p{
+	margin: 15px;
+	font: 15px/1.5 sans-serif;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 5px;
+	font-size: 10px;
+}
+
+#bottomLine {
+	border-top: solid 1px #a0a0a0;
+
+}
+
+em {
+	color: #ffffff;
+	font-size: 4px;
+}
+
+.first{
+
+}
+
+/* .firstRow{
+	width: 280px;
+	height: 187px;
+}
+*/
+
+
+
+
+
+
